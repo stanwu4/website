@@ -1,3 +1,9 @@
+html, body{
+  height: 100%;
+  margin: 2%;  /* Removes default margin */
+  justify-content: center; /* Centers horizontally */   
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +42,44 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  background: white;
+  border: 3px solid red;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.container{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  background: white;
+  border: 3px solid red;
+
+}
+
+.link{
+  display:flex;
+  gap: 10px;
+  flex-direction: row;
+  justify-content:left;
+  background: white;
+  border: 3px solid red;
+}
+
+a{
+  padding-bottom: 1px;
+  text-decoration: none;
+  border-bottom: 1px solid #c3c3c3;
+  color: black;
+}
+
+a:hover {
+  color:#00f7ff;
+  border-bottom: 1px solid #c3c3c3;
+}
+/* create a mobile portrait for mobile displays*/
