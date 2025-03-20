@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.b151c38c.css",
+    "main.js": "/my-app/static/js/main.964b7b00.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/profile.jpeg": "/my-app/static/media/profile.7b0dea9f9d210b7522a5.jpeg",
+    "static/media/ECCOMLogo.jpeg": "/my-app/static/media/ECCOMLogo.a8a4523c87d7cb46b1a1.jpeg",
+    "static/media/github.svg": "/my-app/static/media/github.4eb84d369705e38b38a0e4210f3e232b.svg",
+    "static/media/gmail.svg": "/my-app/static/media/gmail.cb7e0ce7b746bf010d61b58da3347406.svg",
+    "static/media/linkedin.svg": "/my-app/static/media/linkedin.f9c36e48ba814d50014eb9b5ef684812.svg",
+    "index.html": "/my-app/index.html",
+    "main.b151c38c.css.map": "/my-app/static/css/main.b151c38c.css.map",
+    "main.964b7b00.js.map": "/my-app/static/js/main.964b7b00.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b151c38c.css",
+    "static/js/main.964b7b00.js"
+  ]
+}
